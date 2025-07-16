@@ -1,4 +1,4 @@
-# 📊 Análise da Receita Orçamentária Federal em Saúde (SUS) – Brasil (2013–2024)
+# 📊 Análise da Receita Orçamentária Federal em Saúde Ministerio da Saúde – Brasil (2013–2024)
 
 Este projeto analisa os dados de receita orçamentária da saúde federal no Brasil, com foco no Ministério da Saúde, utilizando SQL em um banco PostgreSQL.
 
